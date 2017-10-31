@@ -11,15 +11,15 @@ My Chords Notebook  является приложением для любите�
 Пользователю будут доступны 4 вкладки: поиск песен, библиотека сохраненных песен, библиотека с аккордами и помощь.
 Поиск аккордов в интернете.
 
-![Поиск](https://github.com/mikhailPopov2222//MyChordsNotebook/mockups/raw/master/1.png)
+![Поиск](https://github.com/mikhailPopov2222//MyChordsNotebook/raw/master/mockups/1.png)
 
 Аккорды и слова песен с возможность автопрокрутки с фиксированной скоростью.
 
-![Слова](https://github.com/mikhailPopov2222//MyChordsNotebook/mockups/raw/master/2.png)
+![Слова](https://github.com/mikhailPopov2222//MyChordsNotebook/raw/master/mockups/2.png)
 
 Библиотека сохраненных песен.
 
-![Библиотека](https://github.com/mikhailPopov2222//MyChordsNotebook/mockups/raw/master/3.png)
+![Библиотека](https://github.com/mikhailPopov2222//MyChordsNotebook/raw/master/mockups/3.png)
 
 #### 2.3 Характеристики пользователей
 Целевая аудитория:
